@@ -4,9 +4,12 @@
 #### Technical Skills: 
 Skill | Confidence
 ----- | --------
-Skill 1 | ![](https://progress-bar.dev/80/) 80%
-Skill 2 | ![](https://progress-bar.dev/90/) 90%
-skill3 
+NLP | ![](https://progress-bar.dev/80/) 80%
+Machine Learning | ![](https://progress-bar.dev/90/) 90%
+Data Analysis | ![](https://progress-bar.dev/80/) 80%
+Data Visualisation | ![](https://progress-bar.dev/90/) 90%
+Software Development | ![](https://progress-bar.dev/80/) 80%
+Machine Learning | ![](https://progress-bar.dev/90/) 90%
 
 
 ## Education
