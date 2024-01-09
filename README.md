@@ -6,6 +6,7 @@ Skill | Confidence
 ----- | --------
 Skill 1 | ![](https://progress-bar.dev/80/) 80%
 Skill 2 | ![](https://progress-bar.dev/90/) 90%
+skill3 
 
 
 ## Education
