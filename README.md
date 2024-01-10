@@ -28,8 +28,9 @@
 <br clear="left">
 
 ## Education
-- MSc., Artificial Intelligence | University of Aberdeen at UK (_Sept 2022_)								       		
-- BTech., Computer Science Engineering | Calicut University (_June 2011_)	 			        		
+MSc., Artificial Intelligence | University of Aberdeen at UK (_Sept 2022_)			
+
+BTech., Computer Science Engineering | Calicut University (_June 2011_)	 			        		
 
 ## Work Experience
 **NLP Data Scientist @ Recordsure  (_May 2023 - Present_)**
