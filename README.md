@@ -1,5 +1,5 @@
 # Hi I,m Manu,
-###  NLP Data Scientist | AI Enginner | Software Developer | Scrum Master
+###  NLP Data Scientist | AI Engineer | Software Developer | Scrum Master
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:manun.venugopal@outlook.com?subject=SubjectHere)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-venugopalan-abdn/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nmanuvenugopal)
@@ -32,13 +32,13 @@ MSc., Artificial Intelligence @ University of Aberdeen at UK (_Sept 2022_)
 BTech., Computer Science Engineering @ Calicut University (_June 2011_)	 			        		
 
 ## Work Experience
-**NLP Data Scientist @ Recordsure  (_May 2023 - Present_)**
+**NLP Data Scientist @ Recordsure  (May 2023 - Present_)**
 - Engineered multiple deep learning models, including Hugging Face Transformer models, for the purpose of categorizing unannotated textual data effectively.
 - Leveraged OpenAI's model for diverse operations encompassing text summarization, text classification, text search, and sentiment analysis.
 - I refined the existing model, introducing new features, resulting in improved performance, the acquisition of two new clients, and a subsequent 3% increase in the company's total revenue.
 - Got internal appraisal for developing a fewshot classification model which is able to classify sentence with an accuracy of more than 92 percent.
 
-**Software Developer & ML Engineer @ Finastra Financial Solution (_August 2016 - September 2021)**
+**Software Developer & ML Engineer @ Finastra Financial Solution (August 2016 - September 2021)**
 - Awarded the prestigious FinFame award for successfully rectifying 35 pre-existing bugs and delivering an outstanding year-end project.
 - Recognized as the runner-up in the Finatra LakeMary USA hackathon.
 - Designed and implemented machine learning algorithms to improve sales forecasting and customer segmentation. 
@@ -46,12 +46,12 @@ BTech., Computer Science Engineering @ Calicut University (_June 2011_)
 - Utilized deep learning frameworks such as TensorFlow and Keras to train neural networks for various NLP and computer vision tasks.
 - Collaborated with cross-functional teams to develop innovative solutions for improving business processes and increasing efficiency.
 
-**Software Engineer @ TATA ELXSI (_April 2015 - August 2016)**
+**Software Engineer @ TATA ELXSI (April 2015 - August 2016)**
 - Received client appreciation award two times for writing test automation code and Internal tool for generating quality test cases for testing different configuration input.
 - Developed user action test frameworks for tool functionalities in Python and C#, focusing on ConfigurationDesk tool components encompassing configuration, I/O function topology, model topology, hardware topology, and device topology.
 - Implemented Python-based test cases to automate verification of ConfigurationDesk components and utilized C# with XML input files to create a test framework using the N-Unit framework and Test Driven .Net add-in.
 
-**Software Developer @ Thoughline Technologies (_March 2012 - March 2015)**
+**Software Developer @ Thoughline Technologies (March 2012 - March 2015)**
 - Got client appreciation for developing and deploying 13 tickets in one month.
 - Design and development of an various Desktop application in C# and corresponding test case using Python.
 - Creation of stored procedures using SQL.
