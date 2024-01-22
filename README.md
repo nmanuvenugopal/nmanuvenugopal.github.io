@@ -47,7 +47,7 @@ BTech., Computer Science Engineering @ Calicut University (_June 2011_)
 - Collaborated with cross-functional teams to develop innovative solutions for improving business processes and increasing efficiency.
 
 **Software Engineer @ TATA ELXSI (April 2015 - August 2016)**
-- Received client appreciation award two times for writing test automation code and Internal tool for generating quality test cases for testing different configuration input.
+- Received client appreciation award two times for writing excellant test automation code and for creating internal tool for generating quality test cases for testing different configuration input.
 - Developed user action test frameworks for tool functionalities in Python and C#, focusing on ConfigurationDesk tool components encompassing configuration, I/O function topology, model topology, hardware topology, and device topology.
 - Implemented Python-based test cases to automate verification of ConfigurationDesk components and utilized C# with XML input files to create a test framework using the N-Unit framework and Test Driven .Net add-in.
 
