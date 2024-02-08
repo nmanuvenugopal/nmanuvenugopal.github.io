@@ -37,7 +37,7 @@ BTech., Computer Science Engineering @ Calicut University (_June 2011_)
 - Leveraged OpenAI's model for diverse operations encompassing text summarization, text classification, text search, and sentiment analysis.
 - I refined the existing model, introducing new features, resulting in improved performance, the acquisition of two new clients, and a subsequent 3% increase in the company's total revenue.
 - I have meticulously optimized several Large Language Models (LLMs), for classification and text generation tasks through the application of Parameter-Efficient Fine-Tuning (PEFT) and Low-Rank Adaptation (LoRA) methodologies.
-- Got internal appreciation for developing a fewshot classification model which is able to classify sentence with an accuracy of more than 92 percent.
+- Got internal appreciation for developing a fewshot classification model which is able to classify sentence with an accuracy of more than 98 percent.
 
 **Software Developer & ML Engineer @ Finastra Financial Solution (August 2016 - September 2021)**
 - Awarded the prestigious FinFame award for successfully rectifying 35 pre-existing bugs and delivering an outstanding year-end project.
@@ -75,6 +75,15 @@ The development process involved:
 
 The project successfully created a Conversational RAG model that significantly outperforms traditional conversational agents in terms of response quality, relevance, and informativeness. This was evidenced by its ability to seamlessly integrate facts, figures, and detailed information into dialogues, providing users with a more engaging and informative interaction experience.
 
+### Classification using Setfit classifier
+[Github Article](https://github.com/nmanuvenugopal/Few-shot-classification-using-setfit-transformer-model)
+SetFit (Sentence Transformer Fine-Tuning) is an effective framework designed for the few-shot fine-tuning of Sentence Transformers (note: When referring to a "Siamese approach" in the context of Sentence Transformer Fine-Tuning, it typically means using a Siamese neural network architecture. In a Siamese network, two identical subnetworks are created, often referred to as twin networks or Siamese twins). The training process is structured into two stages:
+- Sentence Transformer Fine-Tuning: This stage employs a Siamese approach on sentence pairs. The objective is to maximize the distance between semantically different sentences while minimizing the distance between semantically similar sentences.
+- Classification Head Training: In this stage, the enriched text embeddings, along with the corresponding class labels, constitute the training set for classification. A logistic regression model is utilized as the classification model, with the potential for future expansion to include other classification models.
+
+SetFit demonstrates a remarkable ability to achieve high accuracy even when trained on limited labeled data, making it effective in scenarios with insufficient training examples. One notable feature of SetFit is its prompt-free classification. In contrast to some existing few-shot classification techniques that rely on manually crafted prompts to guide the model, SetFit operates without the need for such prompts. The efficiency of SetFit is evident in its quick and straightforward training process. Unlike traditional transformer models, SetFit does not demand extensive amounts of data for effective training. 
+
+In this particular project I have tried to evaluate the sentiments of the provided input sentences. Even though I have trained the model with the limited data the model was able to perform well and gave a very good result. 
 
 ## Awards and Achievements
 - Recognition within the team for implementing sentence based classification using tranformers, Recordsure, UK, 2023
