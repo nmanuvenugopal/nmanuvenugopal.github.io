@@ -85,6 +85,16 @@ SetFit demonstrates a remarkable ability to achieve high accuracy even when trai
 
 In this particular project I have tried to evaluate the sentiments of the provided input sentences. Even though I have trained the model with the limited data the model was able to perform well and gave a very good result. 
 
+### Speach to Text with OpenAI Whisper model
+[Github Article](https://github.com/nmanuvenugopal/Speech-to-Text-using-OpenAI/tree/main)This project leverages the powerful capabilities of OpenAI's Whisper-1 model to create an efficient and accurate Speech to Text (STT) system. Designed to convert spoken language into written text (English), our implementation focuses on providing a user-friendly interface for real-time audio processing and transcription. The Whisper-1 model, known for its robust performance across various languages and noisy environments, forms the backbone of our system, enabling it to handle a wide array of speech patterns, accents, and background sounds with high precision.
+
+Key features of Whisper model include:
+- Real-time audio transcription capability.
+- Support for multiple languages and dialects.
+- High accuracy in diverse acoustic settings.
+
+This project is aimed at developers, researchers, and enthusiasts looking to integrate speech recognition into their applications or to explore the advanced STT capabilities of the Whisper-1 model. Whether it's for generating accessible content, enhancing voice-driven interfaces, or conducting linguistic research, this tool provides a solid foundation for a variety of applications. Explore the documentation and codebase on GitHub to get started with incorporating this cutting-edge speech to text technology into your projects.
+
 ## Awards and Achievements
 - Recognition within the team for implementing sentence based classification using tranformers, Recordsure, UK, 2023
 - Recognition within the team for implementing few shot classification with excellant accuracy, Recordsure, UK, 2024  
