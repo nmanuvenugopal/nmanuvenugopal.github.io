@@ -36,7 +36,7 @@ BTech., Computer Science Engineering @ Calicut University (_June 2011_)
 - Engineered multiple deep learning models, including Hugging Face Transformer models, for the purpose of categorizing unannotated textual data effectively.
 - Leveraged OpenAI's model for diverse operations encompassing text summarization, text classification, text search, and sentiment analysis.
 - I refined the existing model, introducing new features, resulting in improved performance, the acquisition of two new clients, and a subsequent 3% increase in the company's total revenue.
-- Got internal appraisal for developing a fewshot classification model which is able to classify sentence with an accuracy of more than 92 percent.
+- Got internal appreciation for developing a fewshot classification model which is able to classify sentence with an accuracy of more than 92 percent.
 
 **Software Developer & ML Engineer @ Finastra Financial Solution (August 2016 - September 2021)**
 - Awarded the prestigious FinFame award for successfully rectifying 35 pre-existing bugs and delivering an outstanding year-end project.
@@ -59,13 +59,20 @@ BTech., Computer Science Engineering @ Calicut University (_June 2011_)
 ## Projects
 ### Few Shot Classification using Azure OpenAI
 [Github Article](https://github.com/nmanuvenugopal/Few-Shot-classification-using-OpenAI)
+This project leveraged OpenAI's cutting-edge natural language processing (NLP) capabilities to develop a sentiment analysis model. The objective was to classify sentences into positive, negative, and neutral sentiments, aiming to enhance understanding of textual data emotions and opinions. Such analysis is pivotal for applications like customer feedback interpretation, market research, and monitoring social media content. Selecting OpenAI's NLP algorithms for the model's foundation, we capitalized on their advanced language comprehension. The training phase involved adjusting the model to recognize linguistic cues and patterns indicative of various sentiments. The model's architecture was fine-tuned to balance complexity and performance, ensuring efficient training and high accuracy.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The highlight of the project was achieving an accuracy rate of almost or more than 98%, a testament to the model's exceptional capability in sentiment classification. This high accuracy reflects the model's nuanced understanding of language and sentiment expression, positioning it as a valuable tool for analyzing textual sentiments. 
 
 ### Build a Conversational RAG with Mistral-7B and LangChain
 [Github Article](https://github.com/nmanuvenugopal/Build-a-Conversational-RAG-with-Mistral-7B-and-LangChain)
+This project focused on developing a state-of-the-art Conversational Retrieval-Augmented Generation (RAG) model by leveraging the powerful Hugging Face Transformers library and the innovative LangChain framework. The goal was to enhance conversational AI's ability to generate more informative, accurate, and contextually relevant responses by integrating external knowledge sources directly into the dialogue system.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+The development process involved:
+- Selecting an appropriate transformer model as the foundation for our RAG system (In my case I have used Mistral AI), emphasizing its ability to handle conversational nuances.
+- Implementing LangChain to link our model with external knowledge databases, ensuring dynamic data retrieval during conversations.
+- Fine-tuning the combined model on a dataset tailored to conversational AI, focusing on enhancing its ability to generate coherent, context-aware, and information-rich responses
+
+The project successfully created a Conversational RAG model that significantly outperforms traditional conversational agents in terms of response quality, relevance, and informativeness. This was evidenced by its ability to seamlessly integrate facts, figures, and detailed information into dialogues, providing users with a more engaging and informative interaction experience.
 
 
 ## Awards and Achievements
