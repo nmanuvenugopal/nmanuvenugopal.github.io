@@ -36,6 +36,7 @@ BTech., Computer Science Engineering @ Calicut University (_June 2011_)
 - Engineered multiple deep learning models, including Hugging Face Transformer models, for the purpose of categorizing unannotated textual data effectively.
 - Leveraged OpenAI's model for diverse operations encompassing text summarization, text classification, text search, and sentiment analysis.
 - I refined the existing model, introducing new features, resulting in improved performance, the acquisition of two new clients, and a subsequent 3% increase in the company's total revenue.
+- I have meticulously optimized several Large Language Models (LLMs), for classification and text generation tasks through the application of Parameter-Efficient Fine-Tuning (PEFT) and Low-Rank Adaptation (LoRA) methodologies.
 - Got internal appreciation for developing a fewshot classification model which is able to classify sentence with an accuracy of more than 92 percent.
 
 **Software Developer & ML Engineer @ Finastra Financial Solution (August 2016 - September 2021)**
