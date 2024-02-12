@@ -85,7 +85,7 @@ SetFit demonstrates a remarkable ability to achieve high accuracy even when trai
 
 In this particular project I have tried to evaluate the sentiments of the provided input sentences. Even though I have trained the model with the limited data the model was able to perform well and gave a very good result. 
 
-### Speach to Text with OpenAI Whisper model
+### Speech to Text with OpenAI Whisper model
 [Github Article](https://github.com/nmanuvenugopal/Speech-to-Text-using-OpenAI/tree/main)This project leverages the powerful capabilities of OpenAI's Whisper-1 model to create an efficient and accurate Speech to Text (STT) system. Designed to convert spoken language into written text (English), our implementation focuses on providing a user-friendly interface for real-time audio processing and transcription. The Whisper-1 model, known for its robust performance across various languages and noisy environments, forms the backbone of our system, enabling it to handle a wide array of speech patterns, accents, and background sounds with high precision.
 
 Key features of Whisper model include:
@@ -106,8 +106,8 @@ This project is aimed at developers, researchers, and enthusiasts looking to int
 1. Deep Learning with Keras and Tensorflow, Simplilearn, Credential ID 3886992, October 2022.
 2. Python Certification Course, Simplilearn, Credential ID 3084629, December 2021.
 3. The Data Science Micro Degree : Data Analysis and Visualization, Udemy, Credential ID UC-0972df81-72e5-444d-8c79-aa2cb6cebb7b, December 2021.
+4. NLP - Natural Language Processing with Python, Udemy, Credential ID UC-5c9e3575-6499-4597-9224-3f5651415732, April 2023
 
-## Recommendations
 
 
 
